@@ -8,3 +8,9 @@ meteor-platform
 insecure
 iron:router
 sacha:spin
+cryptoquick:stylus-multi
+http
+accounts-base
+bootstrap
+accounts-ui
+accounts-password
